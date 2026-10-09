@@ -51,7 +51,9 @@ O projeto foi conduzido em duas etapas encadeadas: tratamento e análise com Pyt
 
 ### 4.1 Tratamento e enriquecimento com Python
 
-Arquivos utilizados:
+Link do Repositório dos arquivos usados:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 - `olist_customers_dataset.csv`
 - `olist_geolocation_dataset.csv`
