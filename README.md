@@ -127,6 +127,7 @@ Ranking completo dos 27 estados cruzando volume, prazo, atraso e satisfação, c
 - `olist_geolocation_dataset.csv`
 - `olist_orders_dataset.csv`
 - `olist_order_reviews_dataset.csv`
+- `SG_Site.png`
 
 **Arquivos gerados neste projeto:**
 
