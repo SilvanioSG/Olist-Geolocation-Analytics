@@ -51,10 +51,6 @@ O projeto foi conduzido em duas etapas encadeadas: tratamento e análise com Pyt
 
 ### 4.1 Tratamento e enriquecimento com Python
 
-Link do Repositório dos arquivos usados:
-
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 - `olist_customers_dataset.csv`
 - `olist_geolocation_dataset.csv`
 - `olist_orders_dataset.csv`
@@ -124,12 +120,14 @@ Ranking completo dos 27 estados cruzando volume, prazo, atraso e satisfação, c
 ## 6. Arquivos do repositório
 
 **Arquivos originais utilizados:**
+- `SG_Site.png`
 
+Link para download dos arquivos usados:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - `olist_customers_dataset.csv`
 - `olist_geolocation_dataset.csv`
 - `olist_orders_dataset.csv`
 - `olist_order_reviews_dataset.csv`
-- `SG_Site.png`
 
 **Arquivos gerados neste projeto:**
 
